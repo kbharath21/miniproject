@@ -36,6 +36,3 @@ The model achieves an accuracy of `XX%` on the test dataset, demonstrating its e
 ## Contributing
 Feel free to open issues or submit pull requests if you want to contribute to this project.
 
----
-
-This version focuses more directly on the core aspects of the project. Let me know if you need further adjustments!
